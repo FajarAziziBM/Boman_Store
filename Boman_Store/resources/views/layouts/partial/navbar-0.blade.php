@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light navbar-store fixed-top navbar-fixed-top" data-aos="fade-down">
     <div class="container">
-        <a href="/index.html" class="navbar-brand">
+        <a href="/" class="navbar-brand">
             <img src="/images/logo.svg" alt="logo" />
         </a>
         <button class="navbar-toggler" type="button" data-toggler="collapse" data-target="#navbarResponsive">
@@ -9,19 +9,19 @@
         <div class="collaps navbar-collaps" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a href="/index.html" class="nav-link">Home</a>
+                    <a href="/" class="nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="/categories.html" class="nav-link">Catagories</a>
+                    <a href="catagories" class="nav-link">Catagories</a>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">Rewards</a>
                 </li>
                 <li class="nav-item">
-                    <a href="/register.html" class="nav-link">Sign Up</a>
+                    <a href="#" class="nav-link">Sign Up</a>
                 </li>
                 <li class="nav-item">
-                    <a href="/login.html" class="btn btn-success nav-link px-4 text-white">Sign In</a>
+                    <a href="#" class="btn btn-success nav-link px-4 text-white">Sign In</a>
                 </li>
             </ul>
         </div>

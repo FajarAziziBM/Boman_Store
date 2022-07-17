@@ -1,4 +1,4 @@
-@extends('layouts.main')
+@extends('layouts.main-0')
 
 @section('container')
 <section class="store-carousel">
@@ -97,7 +97,7 @@
         </div>
         <div class="row">
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="100ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-apple-watch.jpg');
@@ -108,7 +108,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="200ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-orange-bogotta.png');
@@ -119,7 +119,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="300ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-sofa-ternyaman.png');
@@ -130,7 +130,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="400ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-bubuk-maketti.png');
@@ -141,7 +141,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="500ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-tatakan-gelas.png');
@@ -152,7 +152,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="600ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-mavic-kawe.png');
@@ -163,7 +163,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="700ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-black-edition-nike.png');
@@ -174,7 +174,7 @@
                 </a>
             </div>
             <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="100ms">
-                <a href="/details.html" class="component-products d-block">
+                <a href="details" class="component-products d-block">
                     <div class="products-thumbnail">
                         <div class="products-images" style="
                       background-image: url('/images/produts-monkey-toys.png');

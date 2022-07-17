@@ -17,7 +17,7 @@
 
 <body>
 
-  @include('layouts.partial.navbar')
+  @include('layouts.partial.navbar-1')
   <div class="page-content page-home">
     @yield('container')
   </div>
